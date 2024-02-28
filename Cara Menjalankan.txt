@@ -1,0 +1,4 @@
+1. Run main.py masukkan banyak populasi dan kromosom yg diinginkn
+2. Jika ingin mengubah selang dapat mengubah nilai pada -5,5 pada main.py
+
+Unduh via Github https://github.com/dorokdok/Tugas-01-Searching
